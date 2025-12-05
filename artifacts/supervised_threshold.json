@@ -1,0 +1,23 @@
+{
+  "tau": 0.9220600672793259,
+  "val_report": {
+    "tau": 0.9220600672793259,
+    "accuracy": 0.95,
+    "balanced_accuracy": 0.8436539306104524,
+    "precision": 0.92,
+    "recall": 0.696969696969697,
+    "f1": 0.793103448275862
+  },
+  "params": {
+    "learning_rate": 0.1,
+    "max_depth": 10,
+    "max_iter": 400
+  },
+  "target_accuracy": 0.95,
+  "target_accuracy_tolerance": 0.005,
+  "recall_min": 0.25,
+  "class_weight": {
+    "0": 1.0,
+    "1": 2.0
+  }
+}

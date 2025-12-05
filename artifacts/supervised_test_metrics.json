@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.9494791666666667,
+  "balanced_accuracy": 0.8731204763368348,
+  "precision": 0.9108527131782945,
+  "recall": 0.7605177993527508,
+  "f1": 0.8289241622574955,
+  "auc_pr": 0.9455832463883072,
+  "auc_roc": 0.9878726152523408,
+  "prevalence": 0.1609375,
+  "threshold_used": 0.9220600672793259,
+  "confusion_matrix": [
+    [
+      1588,
+      23
+    ],
+    [
+      74,
+      235
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n      Normal       0.96      0.99      0.97      1611\n    Anomalie       0.91      0.76      0.83       309\n\n    accuracy                           0.95      1920\n   macro avg       0.93      0.87      0.90      1920\nweighted avg       0.95      0.95      0.95      1920\n"
+}
